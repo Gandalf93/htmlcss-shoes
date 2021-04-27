@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.box{
+    height: 100vh;
+    text-align: center;
+    
+}
+
+.img-scarpa{
+   
+}
+    
+.scritta-gialla{
+    color: yellow;
+    font-size: 40px;
+    text-align: center;
+    vertical-align: middle;
+   
+}
+
+.rosso{
+    background-color: red;
+}
+
+.contenitore{
+    
+} 

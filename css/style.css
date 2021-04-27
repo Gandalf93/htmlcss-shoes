@@ -2,6 +2,9 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'Prompt', sans-serif;
+    font-weight: 900;
+    
 }
 
 .contenitore{
@@ -30,13 +33,19 @@
 
 #menu nav li a{
     background-color: white;
-    padding: 20px 25px;
+    padding: 20px 30px;
     border-radius: 50%;
     text-decoration: none;
     margin: 15px;
     font-size: 20px;
-}
     
+}
+  
+li a:hover{
+    color: rgb(0, 209, 216);
+    box-shadow: 3px 5px #21a8d1;
+    
+}
 /* fine nav */
 
 
@@ -83,6 +92,7 @@
     top:80%;
     left:55%;
     transform: translate(-70%, -50%);
+    text-shadow: 3px 3px gray;
 }
 
 .scritta-verde{
@@ -95,6 +105,7 @@
     top:80%;
     left:55%;
     transform: translate(-70%, -50%);
+    text-shadow: 3px 3px gray;
 }
 
 
